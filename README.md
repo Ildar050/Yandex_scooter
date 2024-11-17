@@ -696,7 +696,9 @@ URL: **GET /api/v1/stations/search**
 
 </details>
 
-<details> <summary> Реализация </summary>
+
+
+## Реализация 
 
 #### Тестовая документация включающая в себя:
 1. Чек-лист функциональности и верстки экрана "Статус заказа"
@@ -708,4 +710,3 @@ URL: **GET /api/v1/stations/search**
 
 Реализация проекта по [ссылке](https://docs.google.com/spreadsheets/d/1jLwhSsCPXGPVGsiZpUrZ3V4a19-EhiIL3WyIZXdTCy8/edit?gid=943703744#gid=943703744)
 
-</details>
